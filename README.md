@@ -5,8 +5,4 @@ To install:
 `git clone https://github.com/somacaru/Seas.git`
 
 Then:
-`cd Seas/`
-
-`chmod u+x install.sh`
-
-`./install.sh`
+`cd Seas/` `chmod u+x install.sh` `./install.sh`
